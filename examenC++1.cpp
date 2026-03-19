@@ -31,7 +31,7 @@ using namespace std;
 
 // Funnción menú
 void mostrarMenu() {
-    cout << "\n------ MENU ------" << endl;
+    cout << "\n------ SISTEMA DE NOTAS ------" << endl;
     cout << "1. Registrar los estudiantes y sus notas" << endl;
     cout << "2. Mostrar el listado completo" << endl;
     cout << "3. Mostrar el promedio general" << endl;
