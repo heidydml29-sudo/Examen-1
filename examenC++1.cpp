@@ -93,7 +93,7 @@ void mostrarPromedio(float notas[], int n) {
         suma += notas[i];
     }
 
-    cout << "Promedio general: " << suma / n << endl;
+    cout << "El promedio general de los estudiantes es: " << suma / n << endl;
 }
 
 //SE MUESTRA LA NOTA MAYOR Y MENOR 
