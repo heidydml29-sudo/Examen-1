@@ -179,7 +179,7 @@ void buscar(string nombres[], float notas[], int n) {
         }
     }
 
-    cout << "Estudiante no encontrado" << endl;
+    cout << "El estudiante ingresado no existe en el registro" << endl;
 }
 
 int main() {
